@@ -1,3 +1,6 @@
+/*! videojs-framebyframe v1.0.1
+* https://github.com/erasche/videojs-framebyframe
+* Copyright (c) Eric Rasche 2015-2018 - Licensed MIT */
 // videojs-framebyframe-plugin
 
 var VjsButton = videojs.getComponent('Button');
